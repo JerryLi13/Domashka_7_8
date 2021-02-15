@@ -360,15 +360,15 @@ body {
 	transition: 0.5s;
 }
 
-.text__text {
+.texts__text {
 	max-width: 1200px;
 }
-.text__item {
+.texts__item {
 	margin: 0 auto;
 	text-align: center;
 	margin-bottom: 50px;
 }
-.text__item p {
+.texts__item p {
 	font-family: "Reggae One", cursive;
 	font-size: 20px;
 	text-indent: 25px;
